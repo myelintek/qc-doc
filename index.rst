@@ -81,7 +81,6 @@ Serves as an example or template for users.
    content/image
    content/template
    content/remote_access
-   content/admin
    content/guide
    content/release_notes
 
